@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(241, 237, 231);
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  }
+
+.link {
+  color: cornflowerblue;
+  font-size: 18px;
+  line-height: 24px;
+}
+.title {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.text {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7D7987
+}
+.subtitle {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px
+}
+.picture {
+  border-radius: 20px 30px;
+  width: 350px;
+}
+.inputText {
+  width: 200px;
+  height: 30px;
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  font-size: 14px;
+  line-height: 30px;
+}
+.btn {
+  width: 100px;
+  height: 30px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
